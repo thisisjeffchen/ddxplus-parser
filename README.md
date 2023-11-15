@@ -1,5 +1,5 @@
 # ddxplus-parser
-Simple parser for ddxplus designed for llm usage. The dataset is encoded in such a way that makes it difficult to use for LLMs. 
+Simple parser for ddxplus designed for llm usage. The dataset is encoded in such a way that makes it difficult to use for LLMs. Use this parser to make it easy.
 
 ## Example
 
